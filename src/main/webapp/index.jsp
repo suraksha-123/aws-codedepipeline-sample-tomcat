@@ -16,12 +16,12 @@
 
 </head>
 
-<body style="background-color: white">
+<body style="background-color: lightgray">
 <div class="container">
     <div class="py-5 text-center">
         <h2>Enterprise Java</h2>
         <h3>Professional Development</h3>
-        <h6>v.1.0</h6>
+        <h6>v.1.1</h6>
         <p class="lead">Welcome to AWS CodePipeline with Tomcat
         </p>
     </div>
