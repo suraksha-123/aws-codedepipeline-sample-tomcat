@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-- source: /target/awscp-sample.war
+- source: /target/aws-codepipeline-sample.war
   destination: /tmp/codedeploy-deployment-staging-area/
 hooks:
   ApplicationStop:
